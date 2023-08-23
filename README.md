@@ -6,7 +6,7 @@ Foi desenvolvido usando a biblioteca p5.js. O jogador controla um gato em sua jo
 ![joguinho em ação](https://github.com/AlziraEva/first-game/assets/138158823/2611c00e-ebdf-4a91-84f7-ed6f367ce283)
 
 ## Descrição
-O objetivo do jogo é atingir a meta posicionada no canto inferior direito da grade. Se o gato atingir um dos dois ladrilhos específicos no final da grade, uma mensagem "Ganhou !!!" ( Você ganhou! ) é exibido junto com uma imagem da caixa de areia. O jogo entra em um estado vencedor, onde mais movimentos são desativados.
+O objetivo do jogo é atingir a meta posicionada no canto inferior direito da grade onde fica locaizada a caixa de areia. Se o gato atingir um dos dois ladrilhos específicos no final da grade, uma mensagem "Ganhou !!!" ( Você ganhou! ) é exibido junto com uma imagem da caixa de areia. O jogo entra em um estado vencedor, onde mais movimentos são desativados.
 
 ## Instruções e funcionalidades
 1. Use as teclas do teclado (setas direcionais) para mover o personagem pelo cenário;
